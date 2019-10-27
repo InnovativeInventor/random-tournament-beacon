@@ -23,3 +23,7 @@ executable will be:
 ```
 build/std_darwin_amd64
 ```
+with commit hash:
+```
+fd92606acf2342311091a1dace539dd0174198e9
+```
